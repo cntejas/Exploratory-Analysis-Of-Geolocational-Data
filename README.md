@@ -8,6 +8,6 @@ This project involves the use of K-Means Clustering to find the best accommodati
 <img width="959" alt="Screenshot 2022-07-15 160502" src="https://user-images.githubusercontent.com/64399192/179208455-7813e108-b0e6-45ad-96ad-679f3ad9c96f.png">
 
 # By Observation 
-1. Cluster 0 (Green) has more restaurents but less gyms and cafes.
-2. Cluster 1 (Orange) has maximum restaurents,gyms and cafes.
-3. Cluster 2 (Red) has less cafes but more gyms and restaurents.
+1. Cluster 0 (Green) has more restaurants but less gyms and cafes.
+2. Cluster 1 (Orange) has maximum restaurants,gyms and cafes.
+3. Cluster 2 (Red) has less cafes but more gyms and restaurants.
